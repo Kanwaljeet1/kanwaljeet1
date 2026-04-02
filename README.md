@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🌟
 Hi! I'm **Kanwaljeet**, a passionate developer who loves building projects, learning new technologies, and contributing to open source. I enjoy working with modern tools and expanding my skills every day.
 
 
-- 💡 I’m learning **DevOps**
+- 💡 I’m learning **building AI skills**
 - 🚀 I’m open to collaboration on cool projects
 - 📫 Connect with me: **kanwal.kaur1310@gmail.com**
 
